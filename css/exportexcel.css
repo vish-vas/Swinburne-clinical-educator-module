@@ -1,0 +1,72 @@
+﻿body {
+    margin: 0;
+    text-align: center;
+}
+
+.cssdivheader {
+    background-image: url('../images/splashImg.jpg');
+    background-size: 130px 65px;
+    background-color: #262626;
+    background-size: 200px 99px;
+    display: block;
+    height: 100px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.csstable{
+    border-collapse: collapse;
+    width: 95%;
+    text-align: left;
+    font-size: 14px;
+    font-family: verdana;
+}
+
+.cssthead{
+  background-color: #acacac;
+  color: white;
+  font-weight: normal;
+  font-size: 14px;
+  font-family: verdana;
+}
+
+.cssdivContent {
+    display: block;
+    position: absolute;
+    margin:20px 0px 20px 20px;
+    border-radius: 25px;
+    background: #ffffff;
+    font-family:Verdana;
+    font-size:18px;
+    font-weight:bold;
+    color:#666666;
+    padding: 20px;
+    width: 94%;
+    min-height:400px;
+    height: auto;
+    position:center;
+}
+
+.cssdivMainContent {
+    display: block;
+    background: #404040;
+    width: 100%;
+    height:100%;
+}
+
+.btnExportToExcel
+{
+        text-transform: uppercase;
+        border-radius: 5px;
+        text-align:center;
+        outline: 0;
+        background: #F21C00;
+        height:30px;
+        border: 0;
+        color: #FFFFFF;
+        font-size: 14px;
+        -webkit-transition: all 0.3 ease;
+        transition: all 0.3 ease;
+        cursor: pointer;
+
+}

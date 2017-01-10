@@ -1,0 +1,110 @@
+﻿body {
+}
+
+
+.mySlides {
+    display: none;
+    text-align: center;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 120%;
+    background-color: darkgrey;
+}
+
+.description {
+    width: 90%;
+}
+
+.cbody {
+    text-align: left;
+}
+
+.display-topright {
+    position: absolute;
+    right: 0;
+    top: 0;
+    margin: 16px 128px;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.cssdivheader {
+    background-image: url('../images/splashImg.jpg');
+    background-size: 130px 65px;
+    background-color: #262626;
+    background-size: 200px 99px;
+    display: block;
+    height: 100px;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.cssdivContent {
+    display: block;
+    position: absolute;
+    border-radius: 25px;
+    margin: 20px 20px 0px 20px;
+    background: #ffffff;
+    font-family: Verdana;
+    font-size: 18px;
+    font-weight: bold;
+    color: #666666;
+    width: 95%;
+    height: auto;
+}
+
+.cssdivMainContent {
+    display: block;
+    background: #404040;
+    width: 100%;
+    min-height: 720px;
+}
+
+
+.btntraining {
+    text-transform: uppercase;
+    border-radius: 5px;
+    text-align: center;
+    outline: 0;
+    height: 30px;
+    border: 0;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+}
+
+.mySlides {
+    display: none;
+    text-align: center;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 120%;
+    background-color: darkgrey;
+}
+
+.description {
+    width: 90%;
+}
+
+.cbody {
+    text-align: left;
+}
+
+.display-topright {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.btntraining:hover {
+    background: #F21C00 !important;
+}
